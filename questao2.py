@@ -17,5 +17,5 @@ elif x > 700.00 and x <= 1500.00:
 elif x > 1500.00:
     print('seu salário antes do reajuste era',x,)
     print('entao você reseberá um aumento de 5%')
-    print('entao voce reseberá um aumento de',x * 0.05,)
+    print('entao voce reseberá um aumento de',x * 0.05)
     print('o seu salário será de', x + x * 0.05)
