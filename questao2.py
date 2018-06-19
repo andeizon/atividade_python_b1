@@ -4,7 +4,7 @@ if x <= 280.00:
     print('entao vovê reseberá um aumento de 20%')
     print('voce terá um aumento de',x * 0.2,)
     print('seu salário agora será,', x + x * 0.02),
-elif (x > 280.00 and x <= 1500.00):
+elif (x > 280.00 and x <= 700.00):
     print('seu salário antes do reajuste era',x,)
     print('então você receberá um aumento de 15%')
     print('você terá um aumento de',x * 0.15,)
