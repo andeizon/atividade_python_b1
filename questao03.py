@@ -20,7 +20,7 @@ if r4 == "sim":
 if r5 == "sim":
     acumulador=acumulador +1
 
-if acumulador == 1:
+if acumulador == 0 or acumulador == 1:
     print('inocente')
 if acumulador == 2:
     print('suspeita')
